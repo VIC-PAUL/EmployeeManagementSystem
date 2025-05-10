@@ -34,9 +34,6 @@ function App() {
       alert('Invalid Creds')
     }
   }
-
-  
-
   return (
     <>
     {!user? <Login handleLogin={handleLogin}/>:''}
