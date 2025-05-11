@@ -40,7 +40,7 @@ const Login = ({handleLogin}) => {
             className="mt-3 outline-none bg-transparent border-2 border-emerald-600 py-2 px-6 text-lg rounded-full placeholder:text-gray-400"
             placeholder="Enter your password"
           />
-          <button className="mt-5 outline-none border-none bg-emerald-600 py-2 px-8 text-lg w-full rounded-full placeholder:text-black">
+          <button className="mt-5 outline-none border-none bg-emerald-600 py-2 px-8 text-lg w-full rounded-full placeholder:text-black cursor-pointer">
             Log In
           </button>
         </form>
