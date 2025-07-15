@@ -8,6 +8,16 @@ const employees = [
     password: "123",
     tasks: [
       {
+        title: "Update website content",
+        description: "Revise the homepage to reflect new product launches.",
+        date: "2025-05-02",
+        category: "Web",
+        active: true,
+        newTask: true,
+        completed: false,
+        failed: false
+      },
+      {
         title: "Prepare presentation",
         description: "Slide deck for Monday's stakeholder meeting.",
         date: "2025-05-04",
