@@ -2,7 +2,7 @@
 const employees = [
   {
     id: 1,
-    name: "Ravi Sharma",
+    name: "Ravi Sarma",
     firstname: "Ravi",
     email: "employee1@example.com",
     password: "123",
